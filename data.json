@@ -24,5 +24,28 @@
 "institute":"ssk",
 "data":["2014","80%"]
 }
+],
+"skills":[
+{
+  "title":"programming language",
+  "info":["c","c++","python","java"]
+},
+{
+   "title":"data base",
+   "info":["oracle","mysql","sql"]
+},
+   {
+     "title": "os",
+     "info":["window","mac","unix","kailinux"]
+   },
+  {
+    "title":"wt",
+    "info":["html","css","javascript"]
+}
+],
+"achivements":[
+  {
+    "info":["coding","bsnlworkshop"]
+  }
 ]
 }
